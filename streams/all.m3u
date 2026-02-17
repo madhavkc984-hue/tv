@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="KantipurTV.np@SD",Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="HimalayanTV.np@SD",Himalayan TV
-https://list.iptvcat.com/my_list/s/53b472e4c0d65af9750faa81ad93e40a.m3u8
-#EXTINF:-1 tvg-id="KantipurMax.np@SD",Kantipur Max
-https://list.iptvcat.com/my_list/s/d0161b00db1103aeed21479864fdccee.m3u8
-#EXTINF:-1 tvg-id="ParyawaranTV.np@SD",Paryawaran TV
-https://list.iptvcat.com/my_list/s/519726c7fa54032c3d35208efdfda1e2.m3u8
 #EXTINF:-1 tvg-id="CapitalTVHD.np@SD",Capital TV (1080p)
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
 #EXTINF:-1 tvg-id="IndigenousTelevision.np@SD",Indigenous Television (720p)
@@ -18,13 +12,7 @@ http://103.229.254.25:7001/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD",Star Gold Select HD (1080p)
 http://103.229.254.25:7001/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@SD",Sony MAX
-https://list.iptvcat.com/my_list/s/e31c3f00cdc358e059182a39b8328aa7.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in@HD",Sony Max HD (1080p)
-https://list.iptvcat.com/my_list/s/3a16e4a0c33a4b97f80631d736374379.m3u8
-#EXTINF:-1 tvg-id="SonyMax2.in@SD",Sony Max 2
-https://list.iptvcat.com/my_list/s/f94bec4db89d9d97d95804bd49bef18f.m3u8
-#EXTINF:-1 tvg-id="SonyEntertainmentTV.in@SD",Sony Entertainment TV
-https://list.iptvcat.com/my_list/s/e5721ce24b93d2e1116f7568dfa85a53.m3u8
+http://38.183.182.166:8000/play/a0vg/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD",Sony SAB HD (1080p)
 http://103.229.254.25:7001/play/a0db/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD",Sony Pix HD (1080p)
@@ -35,20 +23,6 @@ http://103.229.254.25:7001/play/a09z/index.m3u8
 http://103.229.254.25:7001/play/a0du/index.m3u8
 #EXTINF:-1 tvg-id="Colors.in@HD",Colors HD (1080p)
 http://103.229.254.25:7001/play/a0a1/index.m3u8
-#EXTINF:-1 tvg-id="MoviesNow.in@SD",Movies Now
-https://list.iptvcat.com/my_list/s/ed361db4f3817d6b241176ee813eaaf3.m3u8
-#EXTINF:-1 tvg-id="MTV.in@HD",MTV (1080p)
-https://list.iptvcat.com/my_list/s/5b8f9b5c36c22087240a6e4d925015db.m3u8
-#EXTINF:-1 tvg-id="MTV.in@HD",MTV HD
-https://list.iptvcat.com/my_list/s/975bd10ffab3add77987145df5018eb4.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.in@HD",National Geographic HD (1080p)
-https://list.iptvcat.com/my_list/s/5979592431bb1abb06eb1e15b1c99bce.m3u8
-#EXTINF:-1 tvg-id="NatGeoWild.in@HD",National Geographic Wild HD (1080p)
-https://list.iptvcat.com/my_list/s/93aa2cc494658f1302b59d0caa8d2674.m3u8
-#EXTINF:-1 tvg-id="SonyBBCEarth.in@SD",Sony BBC Earth
-https://list.iptvcat.com/my_list/s/b5eaf2afb618e06d2cf0fa50edbf6022.m3u8
-#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD",Sony BBC Earth HD (1080p)
-https://list.iptvcat.com/my_list/s/6498a283dbe9d036e397e0857a62cb92.m3u8
 #EXTINF:-1 tvg-id="AndTV.in@HD",&TV HD (1080p)
 http://103.229.254.25:7001/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="Andpictures.in@HD",&pictures HD (1080p)
@@ -89,14 +63,6 @@ http://103.229.254.25:7001/play/a0a0/index.m3u8
 http://103.229.254.25:7001/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen5.in@HD",Sony Sports Ten 5 HD (1080p)
 http://103.229.254.25:7001/play/a0dw/index.m3u8
-#EXTINF:-1 tvg-id="Disney.in@SD",Disney
-https://list.iptvcat.com/my_list/s/ddd05d6c7183f92171d3420f34a32085.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.in@HD",Cartoon Network HD+ (1080p)
-https://list.iptvcat.com/my_list/s/d29fbee13632bb8fdab4438d8b91fdad.m3u8
-#EXTINF:-1 tvg-id="Nick.in@HD",Nick HD+ (1080p)
-https://list.iptvcat.com/my_list/s/c0590feeed57f44687738f7c440d2e9c.m3u8
-#EXTINF:-1 tvg-id="NickSonic.in@SD",Nickelodeon Sonic Hindi
-https://list.iptvcat.com/my_list/s/530e282400dd77a48edb876bcf3cf36b.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in@SD",Zee News (1080p)
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 tvg-id="IndiaDailyLive.in@SD",India Daily Live (1080p)
